@@ -47,7 +47,6 @@ table{
 	height:370x;
 	width:100%;
 }
-	
 </style>
 </head>
 <body bgcolor="E3E3E3">
